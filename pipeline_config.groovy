@@ -1,5 +1,5 @@
 allow_scm_jenkinsfile = false
-pipeline_template = Jenkinfile
+pipeline_template = "Jenkinfile"
 /*
   specify which libraries to load: 
     In the Governance Tier configuration file, 
