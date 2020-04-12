@@ -27,3 +27,10 @@ stages{
 keywords {
     version = "V1.00"
 }
+
+steps {
+    xxx {
+        stage = "xxx"
+        command = "dir"
+    }
+}
