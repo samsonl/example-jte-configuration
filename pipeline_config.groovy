@@ -23,3 +23,7 @@ stages{
         build
     }
 }
+
+keywords {
+    version = "V1.00"
+}
