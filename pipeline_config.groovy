@@ -16,3 +16,10 @@ template_methods{
     build
     xxx
 }
+
+stages{
+    combo_stage {
+        build
+        build
+    }
+}
