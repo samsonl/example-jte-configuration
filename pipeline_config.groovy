@@ -20,7 +20,7 @@ template_methods{
 stages{
     combo_stage {
         build
-        build
+        xxx
     }
 }
 
