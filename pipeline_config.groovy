@@ -20,7 +20,6 @@ template_methods{
 stages{
     combo_stage {
         build
-        xxx
     }
 }
 
@@ -28,9 +27,4 @@ keywords {
     version = "V1.00"
 }
 
-steps {
-    xxx {
-        stage = "xxx"
-        command = "dir"
-    }
-}
+ 
