@@ -1,3 +1,5 @@
+skip_default_checkout = true
+
 /*
   specify which libraries to load: 
     In the Governance Tier configuration file, 
