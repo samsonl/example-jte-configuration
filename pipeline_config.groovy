@@ -1,4 +1,5 @@
-allow_scm_jenkinsfile = false
+skip_default_checkout = true
+//allow_scm_jenkinsfile = false
 pipeline_template = "Jenkinsfile"
 /*
   specify which libraries to load: 
